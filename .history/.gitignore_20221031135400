@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
-
+..venv
 ### Django ###
 *.log
 *.pot
@@ -133,7 +133,7 @@ celerybeat.pid
 
 # Environments
 .env
-venv
+.venv
 env/
 venv/
 ENV/
